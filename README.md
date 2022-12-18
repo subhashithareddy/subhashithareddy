@@ -1,5 +1,7 @@
 # 💫 About Me:
-Python and Go
+I'm A Site Reliability Enginner.
+Currenctly Working on Python.
+A 'Go' enthusiast
 
 
 ## 🌐 Socials:
